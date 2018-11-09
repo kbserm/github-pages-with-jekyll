@@ -1,3 +1,10 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+## Blog 1
+
+This is blog 1.
+
+## Blog 2
+This is blog 2.
+## Blog 3
+This is blog 3.
